@@ -43,7 +43,7 @@ for i in range(1,51):
         else:
             rating_text = None
              
-        print('{} {} {}'.format(name_text, price_text, rating_text))
+        print('{} {} {}'.format(name_text, price_text, rating_text+' ⭐️'))
         names.append(name_text)
         prices.append(price_text)
         ratings.append(rating_text)
