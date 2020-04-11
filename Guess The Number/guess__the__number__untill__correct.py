@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    => did some minor changes from simple method
+    => did some minor changes from 'guess__the__number__win__or__lose'
       => instead of getting one time correct or not correct guess, let the user guess until he gets correct guess!
     1. import random module again
     2. guess the number
