@@ -6,6 +6,7 @@
     2. guess the number
     3. guess the number until user get correct guess
       
+    @krsign
         
 """
 import random

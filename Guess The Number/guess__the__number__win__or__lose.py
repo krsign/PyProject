@@ -5,7 +5,7 @@
      2. guess the number
      
      3. if random number equal to guessed number then 'You win!' and if not then 'You Lose!'
-
+    @krsign
 """
 import random
 
